@@ -64914,7 +64914,7 @@ cQ(a,b,c,d){return this.b3(a,b,c,d,0)}}
 E.Lf.prototype={}
 E.It.prototype={}
 F.F8.prototype={
-G(a,b){return new S.vB(C.ID,"Flutter Demo",X.ama(null,C.It),!1,null)}}
+G(a,b){return new S.vB(C.ID,"Learning Meaning Fullife",X.ama(null,C.It),!1,null)}}
 F.vQ.prototype={
 ay(){return new F.LT(C.y)}}
 F.LT.prototype={
